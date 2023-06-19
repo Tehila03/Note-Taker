@@ -6,3 +6,6 @@ In this task, I was given the responsibility of developing an application called
 ## Website Link
 https://expressjs--note-taker-7383bf2a9802.herokuapp.com/
 
+
+/Users/tehila/Desktop/Note-Taker/public/images/Screen Shot 2023-06-18 at 8.14.45 PM.png
+/Users/tehila/Desktop/Note-Taker/public/images/Screen Shot 2023-06-18 at 8.15.03 PM.png
